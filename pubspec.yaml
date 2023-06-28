@@ -7,7 +7,7 @@ homepage: https://github.com/dmt195
 repository: https://github.com/dmt195/tiktok-flutter-plugin
 
 environment:
-  sdk: ">=2.12.0 <=3.0.2"
+  sdk: ">=2.12.0 <=3.0.5"
 
 dependencies:
   flutter:
